@@ -19,6 +19,10 @@ OS Greentea is based on [ReactOS™](https://en.wikipedia.org/wiki/ReactOS) proj
 
 Visit out [Issues](https://github.com/OSGreentea/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer. :ru: Мы также говорим на нескольких языках, но основное общение происходит на русском и английском.
 
+## Kernel
+
+System's source code is hosted inside [Kernel](https://github.com/GreenteaOS/Kernel) repository. Feel free to make pull requests!
+
 ## License
 
 ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) project. We are using some parts from other open source projects as well. No proprietary code allowed or in use.
