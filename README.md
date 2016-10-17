@@ -1,6 +1,7 @@
 ## Greentea Operating System
 
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/OSGreentea/Kernel)
+[![Telegram EN Chatroom](https://img.shields.io/badge/Telegram-Greentea%20EN-blue.svg)](https://telegram.me/greentea_en)
 [![Telegram RU Chatroom](https://img.shields.io/badge/Telegram-Greentea%20RU-blue.svg)](https://telegram.me/greentea_ru)
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 
