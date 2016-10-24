@@ -11,7 +11,7 @@ OS Greentea is based on [ReactOS™](https://en.wikipedia.org/wiki/ReactOS) proj
 
 ## Wiki
 
-<img src="https://cloud.githubusercontent.com/assets/3642643/17365226/9a2ee7b2-598d-11e6-8adb-42271309c3e0.png" width="256">
+<a href="https://octodex.github.com"><img alt="https://octodex.github.com" src="https://cloud.githubusercontent.com/assets/3642643/17365226/9a2ee7b2-598d-11e6-8adb-42271309c3e0.png" width="256"></a>
 
 * :us: English [english/README.md](english/README.md)
 * :ru: Русский [russian/README.md](russian/README.md)
