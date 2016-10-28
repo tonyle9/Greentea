@@ -9,6 +9,8 @@ Warm and cozy operating system, free open-source re-implementation of [Microsoft
 
 OS Greentea is based on [ReactOS™](https://en.wikipedia.org/wiki/ReactOS) project. [ReactOS™](https://en.wikipedia.org/wiki/ReactOS) is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT) family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
 
+![image](https://cloud.githubusercontent.com/assets/3642643/19817112/c4891362-9d52-11e6-9d3c-4726bfe8e599.png)
+
 ## Wiki
 
 <a href="https://octodex.github.com"><img alt="https://octodex.github.com" src="https://cloud.githubusercontent.com/assets/3642643/17365226/9a2ee7b2-598d-11e6-8adb-42271309c3e0.png" width="256"></a>
