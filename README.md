@@ -29,3 +29,9 @@ System's source code is hosted inside [Kernel](https://github.com/GreenteaOS/Ker
 ## License
 
 ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) project. We are using some parts from other open source projects as well. No proprietary code allowed or in use.
+
+**If you found any code that violates GPL, then please open [Issue](https://github.com/GreenteaOS/Greentea/issues)! THIS CODE WILL BE REMOVED TO ENSURE GPL CONFORMANCE.**
+
+**If yours country law disallows use of some parts of the project or has another problem, then *DO NOT* USE OR DISTRIBUTE binary builds or source code. Open [Issue](https://github.com/GreenteaOS/Greentea/issues) instead!**
+
+**This project is done by a broad variety of people. To discuss legal issues contact [ReactOS Foundation](https://www.reactos.org/wiki/ReactOS_Foundation) organization.**
