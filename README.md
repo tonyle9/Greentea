@@ -3,6 +3,7 @@
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/OSGreentea/Kernel)
 [![Telegram EN Chatroom](https://img.shields.io/badge/Telegram-Greentea%20EN-blue.svg)](https://telegram.me/greentea_en)
 [![Telegram RU Chatroom](https://img.shields.io/badge/Telegram-Greentea%20RU-blue.svg)](https://telegram.me/greentea_ru)
+[![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg)](https://gitter.im/GreenteaOS/Lobby)
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 
 Warm and cozy operating system, free open-source re-implementation of [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT)
