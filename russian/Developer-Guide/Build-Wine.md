@@ -14,7 +14,7 @@
 
 #### Установка среды сборки
 
-Установите среду как в исходной статье.
+Установите среду как в [исходной статье](https://github.com/GreenteaOS/Greentea/blob/master/russian/Developer-Guide/Build-Native.md).
 
 #### Сборка, тестирование и пересборка
 
