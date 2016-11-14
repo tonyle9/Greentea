@@ -12,7 +12,9 @@
  * [x] Virtualized OpenGL
  * [ ] Hardware OpenGL
  * [ ] Hardware Vulkan
+ * [x] D3D over OpenGL
  * [ ] D3D over Vulkan
+ * [ ] Native D3D
 * Kernel
  * [x] Basic stubs: memory manager, FAT filesystem, simple scheduler
  * [ ] Stable memory manager
@@ -40,3 +42,37 @@
  * [ ] Shell overhaul to add modern features and look
  * [ ] GreenLibs modules for GreenStep
  * [ ] Stable and finished user space software
+
+---
+
+### Not planned features
+
+This project started as a controversy to undefined future (and past) of ReactOS project.
+Our team decided to define precise list of *the most useful* features to the wide audiences.
+Features, like ARM support, aren't really useful in any real manner, as already showed Windows RT.
+Features, like LPT printing (recently done in ReactOS project), has so small applicability (LPT ports in 2016 anyone?),
+so can't be considered in any manner real target for Greentea OS team and use case for our users.
+Also, multiply that by a *enormous* number of bugs, hacks and workarounds, which we should fix now,
+to at least make NT kernel non-academic project! And then improve the NT and WinAPI implementations, **the real things**.
+Otherwise it is a waste of time.
+
+---
+
+### Feature timings
+ 
+Features are highly dependent of Kernel API version. 
+Also, the Windows exosystem defines it's own distribution rules.
+For example: while it *is* possible to run Vulkan API over Windows XP,
+no hardware or middleware (LunarG) distributors actually did it.
+Some features also, like native Wi-Fi or BLE support, were non-existent on old versions of NT.
+So we need to declare timings and dependecies for each feature.
+
+| Kernel NT < 5 |
+| Kernel NT 5.0 (2000) |
+| Kernel NT 5.1 (XP) |
+| Kernel NT 5.2 (2003) |
+| Kernel NT 6.0 (Vista) |
+| Kernel NT 6.1 (7) |
+| Kernel NT 6.2 (8) |
+| Kernel NT 6.3 (8.1) |
+| Kernel NT 10.0 (10) |
