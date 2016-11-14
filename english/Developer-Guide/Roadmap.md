@@ -18,6 +18,7 @@
  * [ ] Stable memory manager
  * [ ] GUI for OS installer instead of DOS terminal session
  * [ ] Moving from FAT to EXT4 filesystem (NTFS ok for external drives, but not for root, BTRFS is very linux specific)
+ * [ ] Stable networking
  * [x] Initial NT 5.1 support (Windows XP)
  * [ ] Full NT 5.1 support (Windows XP)
  * [x] Initial NT 5.2 support (Windows Server 2003)
@@ -26,6 +27,7 @@
  * [ ] Full NT 6.1 support (Windows 7)
  * [ ] Linux subsystem (only software)
  * [ ] Android subsystem (based on linux's, only software)
+ * [ ] Easy system updates
 * Visuals
  * [x] New default theming and visuals (Windows XP compatible)
  * [ ] Fix theming engine (Windows XP compatible)
@@ -37,3 +39,4 @@
  * [ ] Stabilization of shell, tray, explorer, start button and others
  * [ ] Shell overhaul to add modern features and look
  * [ ] GreenLibs modules for GreenStep
+ * [ ] Stable and finished user space software
