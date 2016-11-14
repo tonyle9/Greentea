@@ -4,7 +4,7 @@
  * [x] x86-32-only mode
  * [x] BIOS boot
  * [ ] x86-64-only mode (**dropping x86-32**)
- * [ ] Multicore HAL and scheduler
+ * [ ] Multicore HAL and scheduler (only for x64)
  * [ ] UEFI boot
  * [ ] USB fixes
 * GPU
@@ -65,7 +65,7 @@ Also, the Windows exosystem defines it's own distribution rules.
 For example: while it *is* possible to run Vulkan API over Windows XP,
 no hardware or middleware (LunarG) distributors actually did it.
 Some features also, like native Wi-Fi or BLE support, were non-existent on old versions of NT.
-So we need to declare timings and dependecies for each feature.
+So we need to declare timings and dependencies for each feature.
 
 | Kernel NT < 5 |
 | Kernel NT 5.0 (2000) |
