@@ -2,5 +2,5 @@
 
 Основная идея проекта заключается в том, чтобы ускорить и упростить разработку.
 
-* :busts_in_silhouette: [Руководство пользователя](https://github.com/GreenteaOS/Greentea/blob/master/russian/User-Guide/README.md)
-* :smiling_imp: [Руководство разработчика](https://github.com/GreenteaOS/Greentea/blob/master/russian/Developer-Guide/README.md)
+* :busts_in_silhouette: [Руководство пользователя](User-Guide/README.md)
+* :smiling_imp: [Руководство разработчика](Developer-Guide/README.md)
