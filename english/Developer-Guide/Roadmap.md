@@ -67,6 +67,8 @@ no hardware or middleware (LunarG) distributors actually did it.
 Some features also, like native Wi-Fi or BLE support, were non-existent on old versions of NT.
 So we need to declare timings and dependencies for each feature.
 
+| NT Versions |
+|:-:|
 | Kernel NT < 5 |
 | Kernel NT 5.0 (2000) |
 | Kernel NT 5.1 (XP) |
