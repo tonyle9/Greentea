@@ -15,7 +15,7 @@
 * Скачайте и запустите установщик [по ссылке](https://sourceforge.net/projects/reactos/files/RosBE-Windows/i386/2.1.3/RosBE-2.1.3.exe/download)
 * Оставте установочный путь по умолчанию: `C:\RosBE` или отредактируйте в `environment.cmd` параметр `TOOLS` при установке по нестандартному пути
 * На следующем окне (Source Directory) выберите папку с репозиторием, например: `C:\GreenteaOS\Kernel`
-* В соответствующем окне выберите все галочки, кроме PowerShell Version, как показано на картинке: <br/> ![image](https://cloud.githubusercontent.com/assets/3642643/19635027/e5531536-99c7-11e6-9ae5-2369b1a81442.png)
+* В соответствующем окне (смотрите картинку) выберите любые опции, или ниодой (это не повлияет на сборку): <br/> ![image](https://cloud.githubusercontent.com/assets/3642643/19635027/e5531536-99c7-11e6-9ae5-2369b1a81442.png)
 
 #### Сборка, тестирование и пересборка
 
