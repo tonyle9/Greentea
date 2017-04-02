@@ -10,7 +10,7 @@
 
 Warm and cozy operating system, free open-source re-implementation of [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT)
 
-OS Greentea is based on [ReactOS™](https://en.wikipedia.org/wiki/ReactOS) project. [ReactOS™](https://en.wikipedia.org/wiki/ReactOS) is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT) family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
+OS Greentea is an operating system based on open source code. The main idea of ​​the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
 ![image](https://cloud.githubusercontent.com/assets/3642643/19817112/c4891362-9d52-11e6-9d3c-4726bfe8e599.png)
 
@@ -38,4 +38,4 @@ ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/G
 
 **If yours country law disallows use of some parts of the project or has another problem, then *DO NOT* USE OR DISTRIBUTE binary builds or source code. Open [Issue](https://github.com/GreenteaOS/Greentea/issues) instead!**
 
-**This project is done by a broad variety of people. To discuss legal issues contact [ReactOS Foundation](https://www.reactos.org/wiki/ReactOS_Foundation) organization.**
+**This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greentea_en).**

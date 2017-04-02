@@ -47,10 +47,10 @@
 
 ### Not planned features
 
-This project started as a controversy to undefined future (and past) of ReactOS project.
+This project started as a controversy to undefined future (and past) of existing operating systems.
 Our team decided to define precise list of *the most useful* features to the wide audiences.
-Features, like ARM support, aren't really useful in any real manner, as already showed Windows RT.
-Features, like LPT printing (recently done in ReactOS project), has so small applicability (LPT ports in 2016 anyone?),
+Features, like ARM support, aren't really useful in any real manner *right now*, as already showed by Windows RT.
+Features, like LPT printing, has so small applicability (LPT ports in 2016 anyone?),
 so can't be considered in any manner real target for Greentea OS team and use case for our users.
 Also, multiply that by a *enormous* number of bugs, hacks and workarounds, which we should fix now,
 to at least make NT kernel non-academic project! And then improve the NT and WinAPI implementations, **the real things**.
@@ -59,8 +59,8 @@ Otherwise it is a waste of time.
 ---
 
 ### Feature timings
- 
-Features are highly dependent of Kernel API version. 
+
+Features are highly dependent of Kernel API version.
 Also, the Windows exosystem defines it's own distribution rules.
 For example: while it *is* possible to run Vulkan API over Windows XP,
 no hardware or middleware (LunarG) distributors actually did it.
