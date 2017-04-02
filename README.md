@@ -2,13 +2,15 @@
 
 ## Greentea Operating System
 
+Warm and cozy operating system, free open-source re-implementation of [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT)
+<br/><br/>
+
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/OSGreentea/Kernel)
 [![Telegram EN Chatroom](https://img.shields.io/badge/Telegram-Greentea%20EN-blue.svg)](https://telegram.me/greentea_en)
 [![Telegram RU Chatroom](https://img.shields.io/badge/Telegram-Greentea%20RU-blue.svg)](https://telegram.me/greentea_ru)
 [![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg)](https://gitter.im/GreenteaOS/Lobby)
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
-
-Warm and cozy operating system, free open-source re-implementation of [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT)
+[![Greentea Twitter](https://img.shields.io/badge/Twitter-@GreenteaOS-blue.svg?style=flat)](https://twitter.com/GreenteaOS)
 
 OS Greentea is an operating system based on open source code. The main idea of ​​the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
