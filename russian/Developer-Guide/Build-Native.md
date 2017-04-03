@@ -12,7 +12,7 @@
 
 #### Установка среды сборки
 
-* Скачайте :fire: Flame :fire: [по ссылке](https://www.dropbox.com/s/qtec2mno60ibit6/Flame.zip?dl=0)
+* Скачайте :fire: Flame :fire: [по прямой ссылке](https://github.com/GreenteaOS/Flame/archive/master.zip) или [на странице репозитория](https://github.com/GreenteaOS/Flame) 
 * Распакуйте в рекомендуемый путь `C:\Flame` или отредактируйте в `environment.cmd` параметр `TOOLS` при распаковке по нестандартному пути
 * Должна получиться папка `C:\Flame` с файлами `version.txt` (версия архива) и остальными (но не вложенная `C:\Flame\Flame`!)
 
