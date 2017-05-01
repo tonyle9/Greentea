@@ -2,7 +2,7 @@
 
 ## Greentea Operating System
 
-Warm and cozy operating system, free open-source re-implementation of [Microsoft® Windows™ NT](https://en.wikipedia.org/wiki/Windows_NT)
+Warm and cozy, open-source operating system compatible with apps, games and drivers initially made for [Microsoft® Windows™](https://en.wikipedia.org/wiki/Microsoft_Windows)
 <br/><br/>
 
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/OSGreentea/Kernel)
@@ -26,7 +26,7 @@ OS Greentea is an operating system based on open source code. The main idea of �
 
 ## Issues and Proposals
 
-Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer. :ru: Мы также говорим на нескольких языках, но основное общение происходит на русском и английском.
+Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer. :ru: Мы также говорим на нескольких других языках, но основное общение происходит на русском и английском.
 
 ## Kernel
 
@@ -41,3 +41,9 @@ ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/G
 **If yours country law disallows use of some parts of the project or has another problem, then *DO NOT* USE OR DISTRIBUTE binary builds or source code. Open [Issue](https://github.com/GreenteaOS/Greentea/issues) instead!**
 
 **This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greentea_en).**
+
+## Trademarks
+
+Microsoft, Windows, and the Windows logo are trademarks, or registered trademarks of Microsoft Corporation in the United States and/or other countries.
+
+Other names and brands may be claimed as the property of others.
