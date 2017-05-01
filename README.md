@@ -1,4 +1,4 @@
-<img align="left" width="100px" height="100px" src="https://avatars0.githubusercontent.com/u/19654552" />
+<img align="left" width="128px" height="128px" src="https://avatars0.githubusercontent.com/u/19654552" />
 
 ## Greentea Operating System
 
