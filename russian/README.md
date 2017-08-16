@@ -6,4 +6,4 @@
 
 * :busts_in_silhouette: [Руководство пользователя](User-Guide/README.md)
 * :octocat: [Руководство разработчика](Developer-Guide/README.md)
-* [Исходный код этих wiki-страниц](https://github.com/GreenteaOS/Greentea)
+* :book: [Помочь в редактировании этих wiki-страниц](https://github.com/GreenteaOS/Greentea/tree/master/russian)
