@@ -15,7 +15,7 @@ Warm and cozy, open-source operating system compatible with apps, games and driv
 
 OS Greentea is an operating system based on open source code. The main idea of ​​the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
-![image](https://cloud.githubusercontent.com/assets/3642643/19817112/c4891362-9d52-11e6-9d3c-4726bfe8e599.png)
+![Screenshot](/assets/images/screenshot.png?raw=true)
 
 ## Wiki
 
