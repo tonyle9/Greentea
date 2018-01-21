@@ -1,0 +1,15 @@
+### Recommended tools and kits
+
+Here are the list of recommended useful tools if you're going to debug some Greentea. Those are in actual use by our team.
+
+#### Text and code editors
+
+- [VS Code](https://code.visualstudio.com/) - this is our main IDE and what not
+
+#### API hooking
+
+- [API Monitor by Rohitab](https://www.rohitab.com/apimonitor) - fantastic software to monitor and control API calls made by applications and services
+
+#### Testing UI issues
+
+- [Allui](https://github.com/PeyTy/Allui) - custom made widget factory to check rendering issues and quick regression validations
