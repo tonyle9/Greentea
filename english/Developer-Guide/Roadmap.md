@@ -6,7 +6,7 @@
  * [ ] x86-64-only mode (**dropping x86-32**)
  * [ ] Multicore HAL and scheduler (only for x64)
  * [ ] UEFI boot
- * [ ] USB fixes
+ * [ ] USB boot fixes
 * GPU
  * [x] Software OpenGL
  * [x] Virtualized OpenGL
@@ -14,17 +14,15 @@
  * [ ] Hardware Vulkan
  * [x] D3D over OpenGL
  * [ ] D3D over Vulkan
- * [ ] Native D3D
 * Kernel
  * [x] Basic stubs: memory manager, FAT filesystem, simple scheduler
+ * [ ] Rewrite in [Hexa](https://github.com/hexalang)
  * [ ] Stable memory manager
  * [ ] GUI for OS installer instead of DOS terminal session
- * [ ] Moving from FAT to EXT4 filesystem (NTFS ok for external drives, but not for root, BTRFS is very linux specific)
+ * [ ] Moving from FAT to journaling filesystem (NTFS ok for external drives, but not for root, BTRFS is very linux specific)
  * [ ] Stable networking
  * [x] Initial NT 5.1 support (Windows XP)
  * [ ] Full NT 5.1 support (Windows XP)
- * [x] Initial NT 5.2 support (Windows Server 2003)
- * [ ] Full NT 5.2 support (Windows Server 2003)
  * [ ] Initial NT 6.1 support (jump directly to Windows 7, compatibility mode)
  * [ ] Full NT 6.1 support (Windows 7)
  * [ ] Linux subsystem (only software)
@@ -33,14 +31,14 @@
 * Visuals
  * [x] New default theming and visuals (Windows XP compatible)
  * [ ] Fix theming engine (Windows XP compatible)
- * [ ] GreenShell theme and toolkit for GreenStep
- * [ ] Overhaul of theming engine (shadows, blurs, effects)
+ * [ ] New HTML5-alike theming engine and toolkit
+ * [ ] Overhaul of theming engine (GPU-accelerated, shadows, blurs, effects)
 * Shell and UI
  * [x] Initial implementations of shell, tray, explorer, start button and others
- * [ ] GreenStep widgets and gui elements
+ * [ ] Greentea widgets and gui elements
  * [ ] Stabilization of shell, tray, explorer, start button and others
  * [ ] Shell overhaul to add modern features and look
- * [ ] GreenLibs modules for GreenStep
+ * [ ] Customizable themes and widgets
  * [ ] Stable and finished user space software
 
 ---
