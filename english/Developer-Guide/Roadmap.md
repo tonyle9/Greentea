@@ -9,10 +9,9 @@
  * [ ] USB boot fixes
 * GPU
  * [x] Software OpenGL
- * [x] Virtualized OpenGL
- * [ ] Hardware OpenGL
+ * [ ] Software Vulkan
  * [ ] Hardware Vulkan
- * [x] D3D over OpenGL
+ * [ ] OpenGL over Vulkan
  * [ ] D3D over Vulkan
 * Kernel
  * [x] Basic stubs: memory manager, FAT filesystem, simple scheduler
