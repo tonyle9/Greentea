@@ -13,3 +13,4 @@ Here are the list of recommended useful tools if you're going to debug some Gree
 #### Testing UI issues
 
 - [Allui](https://github.com/PeyTy/Allui) - custom made widget factory to check rendering issues and quick regression validations
+- [Curvi](https://github.com/PeyTy/Curvi) - mouse cursor viewer and debugging tool
