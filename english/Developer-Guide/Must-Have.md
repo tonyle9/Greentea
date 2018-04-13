@@ -2,6 +2,11 @@
 
 Here are the list of recommended useful tools if you're going to debug some Greentea. Those are in actual use by our team.
 
+#### Git and GitHub integration
+
+- [GitHub Desktop](https://desktop.github.com/) - nice and sleek, highly recommend
+- [VS Code](https://code.visualstudio.com/) - supports Git with realtime diff editor
+
 #### Text and code editors
 
 - [VS Code](https://code.visualstudio.com/) - this is our main IDE and what not
