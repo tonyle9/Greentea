@@ -43,3 +43,7 @@
 Нажите на хеш коммита, например [e1b5d02](https://github.com/GreenteaOS/Greentea/commit/e1b5d027a6913e0e4bbb6ecbbf62153cbb99ddc2) или `e1b5d027a6913e0e4bbb6ecbbf62153cbb99ddc2`, это откроет страницу просмотра коммита. Теперь можно оставить комментарий или начать обсуждение кликнув иконку `[+]` напротив нужной строки:
 
 ![image](https://user-images.githubusercontent.com/3642643/38614228-04339e86-3d95-11e8-9045-6ffc4b67e8d9.png)
+
+Смотрите также:
+
+* :peace_symbol: [Кодекс поведения](Conduct.md)
