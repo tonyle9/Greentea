@@ -32,3 +32,4 @@
 Смотрите также:
 
 * :busts_in_silhouette: [Руководство пользователя](../User-Guide/README.md)
+* :peace_symbol: [Кодекс поведения](../User-Guide/Conduct.md)
