@@ -11,6 +11,7 @@
 * :six::four: [Поддержка x64/amd64](x64.md)
 * :building_construction: [Ночные сборки и CI](CI.md)
 * :speaking_head: [Перевод и локализация](Localization.md)
+* :octocat: [Использование Git и GitHub](Git-and-GitHub.md)
 * [Разделение на репозитории](Repos.md)
 
 Особенности Greentea OS:
