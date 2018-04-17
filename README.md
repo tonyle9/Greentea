@@ -6,15 +6,14 @@ Warm and cozy, open-source operating system compatible with apps, games and driv
 <br/><br/>
 
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GreenteaOS/Kernel)
-[![Telegram EN Chatroom](https://img.shields.io/badge/Telegram-Greentea%20EN-blue.svg)](https://telegram.me/greentea_en)
-[![Telegram RU Chatroom](https://img.shields.io/badge/Telegram-Greentea%20RU-blue.svg)](https://telegram.me/greentea_ru)
+[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20EN-blue.svg)](https://telegram.me/greenteaos_en)
 [![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg)](https://gitter.im/GreenteaOS/Lobby)
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 [![Greentea Twitter](https://img.shields.io/badge/Twitter-@GreenteaOS-blue.svg?style=flat)](https://twitter.com/GreenteaOS)
 [![Greentea GPlus](https://img.shields.io/badge/G+-Greentea%20OS-0f9d58.svg?style=flat)](https://plus.google.com/communities/112825384415357456297)
-[![Greentea Live EN](https://img.shields.io/badge/Telegram-LIVE-red.svg?style=flat)](https://t.me/greentea_live)
+[![Greentea Live](https://img.shields.io/badge/Telegram-LIVE-red.svg?style=flat)](https://t.me/greenteaos_live)
 
-Greentea is an operating system based on open source code. The main idea of ​​the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
+Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
 ![Screenshot](assets/images/screenshot.png?raw=true)
 
@@ -28,7 +27,7 @@ Greentea is an operating system based on open source code. The main idea of ​�
 
 ## Issues and Proposals
 
-Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer. :ru: Мы также говорим на нескольких других языках, но основное общение происходит на русском и английском.
+Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer.
 
 ## Kernel
 
@@ -42,7 +41,7 @@ ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/G
 
 **If yours country law disallows use of some parts of the project or has another problem, then *DO NOT* USE OR DISTRIBUTE binary builds or source code. Open [Issue](https://github.com/GreenteaOS/Greentea/issues) instead!**
 
-**This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greentea_en).**
+**This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greenteaos_en).**
 
 ## Trademarks
 
