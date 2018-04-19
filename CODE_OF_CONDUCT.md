@@ -53,7 +53,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by joining [english](https://t.me/greentea_en) or [russian](https://t.me/greentea_ru) Telegram groups.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by joining [english](https://t.me/greenteaos_en) Telegram group.
 
 
 
@@ -73,8 +73,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-- [English Telegram group](https://t.me/greentea_en)
-- [Russian Telegram group](https://t.me/greentea_ru)
+- [English Telegram group](https://t.me/greenteaos_en)
 
 ## 10. License and attribution
 
