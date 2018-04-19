@@ -21,12 +21,43 @@ Greentea is an operating system based on open source code. The main idea of the 
 
 <a href="https://octodex.github.com"><img alt="https://octodex.github.com" src="https://cloud.githubusercontent.com/assets/3642643/17365226/9a2ee7b2-598d-11e6-8adb-42271309c3e0.png" width="256"></a>
 
+### User guide
+
+* :performing_arts: [How to leave feedback or bug report](User-Guide/Issues.md)
+* :book: [How to edit wiki-pages](User-Guide/Wiki-How.md)
+* :cd: [How to download the latest version of the system](User-Guide/Download-Latest.md)
+* :desktop_computer: [How to install the system on your computer](User-Guide/Installation.md)
+* :peace_symbol: [Code of conduct](User-Guide/Conduct.md)
+
 ### Developer guide
 
 Building, testing and enjoing development:
 
+* :hammer_and_wrench: [Build with Windows](Developer-Guide/Build-Native.md)
+* :wine_glass: [Build with Ubuntu, macOS, and other Linux/BSD/unix-like systems](Developer-Guide/Build-Wine.md)
+* :package: [Running VirtualBox](Developer-Guide/VirtualBox-Config.md)
 * :gear: [Recommended tools](Developer-Guide/Must-Have.md)
 * :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
+* :sunrise: [Create bootvid-compatible bitmaps](Developer-Guide/Create-bootvid-compatible-bitmaps.md)
+* :six::four: [x86-64/AMD64 support](Developer-Guide/x64.md)
+* :building_construction: [Continuous integration and nightly builds](Developer-Guide/CI.md)
+* :speaking_head: [Translation and localization](Developer-Guide/Localization.md)
+* :octocat: [Using Git and GitHub](Developer-Guide/Git-and-GitHub.md)
+* [Repositories distinction](Developer-Guide/Repos.md)
+
+What makes Greentea so special:
+
+* [The GreenteaFS file system](User-Guide/Greentea-FS.md)
+* [Enhanced use of the Vulkan API](User-Guide/Vulkan.md)
+* [Emulation of other operating systems](User-Guide/Vulkan.md)
+* [Shop for applications, games and other content](User-Guide/Shop.md)
+* [Using web-alike technologies to build native apps](User-Guide/Web.md)
+* [Monolithic rolling-release updates of the system](User-Guide/Rolling.md)
+* [Unified control panel](User-Guide/Control-Panel.md)
+* [X86 emulation on third-party platforms](User-Guide/x86.md)
+* [Built-in protection mechanisms (antivirus, stability, isolation and snapshots)](User-Guide/Protection.md)
+* [Hexa programming language](User-Guide/Hexa.md)
+* [Custom build system](User-Guide/Build-System.md)
 
 ## Get Greentea
 
