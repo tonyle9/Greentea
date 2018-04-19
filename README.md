@@ -28,6 +28,14 @@ Building, testing and enjoing development:
 * :gear: [Recommended tools](Developer-Guide/Must-Have.md)
 * :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
 
+## Get Greentea
+
+<img width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Download_downloading_data_storage_folder-128.png" />
+
+Latest version may be easily downloaded from our [home page](https://greenteaos.github.io/#download) either with [Torrent](https://www.bittorrent.com/bittorrent-free) or [Telegram](https://telegram.org) free service.
+
+### BEWARE! DO *NOT* INSTALL ON A PC! USE VIRTUAL MACHINES! GREENTEA IS UNSTABLE SOFTWARE!
+
 ## Issues and Proposals
 
 Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer.
