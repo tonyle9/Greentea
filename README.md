@@ -21,8 +21,12 @@ Greentea is an operating system based on open source code. The main idea of the 
 
 <a href="https://octodex.github.com"><img alt="https://octodex.github.com" src="https://cloud.githubusercontent.com/assets/3642643/17365226/9a2ee7b2-598d-11e6-8adb-42271309c3e0.png" width="256"></a>
 
-* :us: English [english/README.md](english/README.md)
-* :ru: Русский [russian/README.md](russian/README.md)
+### Developer guide
+
+Building, testing and enjoing development:
+
+* :gear: [Recommended tools](Developer-Guide/Must-Have.md)
+* :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
 
 ## Issues and Proposals
 
