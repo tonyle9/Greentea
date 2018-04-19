@@ -23,7 +23,6 @@ Greentea is an operating system based on open source code. The main idea of the 
 
 * :us: English [english/README.md](english/README.md)
 * :ru: Русский [russian/README.md](russian/README.md)
-* :it: Italian [italian/README.md](italian/README.md)
 
 ## Issues and Proposals
 
