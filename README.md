@@ -29,7 +29,7 @@ Greentea is an operating system based on open source code. The main idea of the 
 * :desktop_computer: [How to install the system on your computer](User-Guide/Installation.md)
 * :peace_symbol: [Code of conduct](User-Guide/Conduct.md)
 
-### Developer guide
+### Developer and contributor guide
 
 Building, testing and enjoing development:
 
@@ -45,7 +45,7 @@ Building, testing and enjoing development:
 * :octocat: [Using Git and GitHub](Developer-Guide/Git-and-GitHub.md)
 * [Repositories distinction](Developer-Guide/Repos.md)
 
-What makes Greentea so special:
+### What makes Greentea so special
 
 * [The GreenteaFS file system](User-Guide/Greentea-FS.md)
 * [Enhanced use of the Vulkan API](User-Guide/Vulkan.md)
@@ -54,7 +54,7 @@ What makes Greentea so special:
 * [Using web-alike technologies to build native apps](User-Guide/Web.md)
 * [Monolithic rolling-release updates of the system](User-Guide/Rolling.md)
 * [Unified control panel](User-Guide/Control-Panel.md)
-* [X86 emulation on third-party platforms](User-Guide/x86.md)
+* [X86 emulation on third-party platforms](Developer-Guide/x86.md)
 * [Built-in protection mechanisms (antivirus, stability, isolation and snapshots)](User-Guide/Protection.md)
 * [Hexa programming language](User-Guide/Hexa.md)
 * [Custom build system](User-Guide/Build-System.md)
