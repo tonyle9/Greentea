@@ -46,4 +46,4 @@
 
 Смотрите также:
 
-* :peace_symbol: [Кодекс поведения](Conduct.md)
+* :peace_symbol: [Code of conduct](Conduct.md)

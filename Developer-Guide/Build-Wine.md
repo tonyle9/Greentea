@@ -5,18 +5,18 @@
 Сборка из под иных, чем Windows NT, операционных систем, производится с помощью проекта [Wine](https://www.winehq.org).
 Предполагается, что читатель знаком с утилитами **wine** и **winetricks**, настроил их и они готовы к работе.
 
-Процесс радикально ничем не отличается от 
-[такого в Windows](https://github.com/GreenteaOS/Greentea/blob/master/russian/Developer-Guide/Build-Native.md), 
+Процесс радикально ничем не отличается от
+[такого в Windows](Build-Native.md),
 за исключением нескольких нюансов.
 
 #### Скачивание репозитория с исходным кодом
 
-Выполните процедуру идентично [оригинальной](https://github.com/GreenteaOS/Greentea/blob/master/russian/Developer-Guide/Build-Native.md).
+Выполните процедуру идентично [оригинальной](Build-Native.md).
 Репозиторий можно поместить в домашнюю папку (в wine это путь `Z:\home\username\`).
 
 #### Установка среды сборки
 
-Установите среду как в [исходной статье](https://github.com/GreenteaOS/Greentea/blob/master/russian/Developer-Guide/Build-Native.md).
+Установите среду как в [исходной статье](Build-Native.md).
 
 #### Сборка, тестирование и пересборка
 
