@@ -1,4 +1,4 @@
-### Запуск в VirtualBox
+### Running in VirtualBox
 
 [VirtualBox](https://ru.wikipedia.org/wiki/VirtualBox) - это средство запуска системы в изолированной среде. 
 С его помощью можно установить Greentea в любой файл на компьютере с существующей системой, 
@@ -8,10 +8,10 @@
 (как дисковой, так и оперативной).
 Также может понадобится включить [опцию VT-x в BIOS](http://www.nastrojkabios.ru/protsessor/virtualization-technologiiu-apparatnoy-virtualizatsii-s-foto.html).
 
-#### Установка виртуальной машины
+#### Installing the Virtual Machine
 
 * Скачайте и запустите установщик для основной операционной системы [по ссылке](https://www.virtualbox.org/wiki/Downloads);
 * Там же нужно скачать `VM VirtualBox Extension Pack` и открыть (должен запуститься VirtualBox и предложить установку расширения).
 
-#### Тестирование Greentea
 
+#### Testing Greentea
