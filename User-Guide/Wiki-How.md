@@ -13,4 +13,4 @@ It's really easy to edit wiki-pages on the GitHub! The are simple textual files 
 
 See also:
 
-* :performing_arts: [How to leave feedback or bug report](../User-Guide/Issues.md)
+* :performing_arts: [How to leave feedback or bug report](Issues.md)
