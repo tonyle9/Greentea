@@ -12,7 +12,7 @@ Due to the international nature of this project, we have to use the most common,
 
 Нарушение кодекса может привести ограничению доступа ко всем репозиториям проекта. Кодекс не является догмой, ситуации рассматриваются индивидуально. Адинистрация оставляет за собой право редактирования комментариев пользователей (закрепленное политикой сервиса GitHub).
 
-Приём претензий проводится [here](https://t.me/greenteaos_en).
+Claims are accepted [here](https://t.me/greenteaos_en).
 
 [Full text in English](../CODE_OF_CONDUCT.md).
 

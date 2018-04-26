@@ -2,37 +2,37 @@
 
 #### Finding and reading messages
 
-* Перейдите на страницу https://github.com/GreenteaOS/Greentea/issues
 * Зелёный индикатор означает актуальное сообщение
 * Красная индикация - закрытое, неактуальное обсуждение или уже исправленная ошибка: https://github.com/GreenteaOS/Greentea/issues?q=is%3Aissue+is%3Aclosed ссылка на все завершенные обсуждения
 * Поле поиска находится прямо под вкладкой **Issues** (не путать с полем *This repository* вверху экрана)
+* Go to https://github.com/GreenteaOS/Greentea/issues
 
-Чтобы оставить комментарий нужно иметь аккаунт GitHub: https://github.com/join
+To leave a comment you need to have a GitHub account: https://github.com/join
 
 Можно вставлять картинки! Перетащите файл изображения на поле ввода или вставьте из буфера обмена через сочетание *Ctrl + V*.
 
-Чтобы упомянуть разработчика, используйте знак `@`, например [@torvalds](https://github.com/torvalds)
+To mention the developer, use the `@` character, for example [@torvalds](https://github.com/torvalds)
 
 Для предпросмотра нажмите **Preview** (и **Write** чтобы вернуться из режима предпросмотра).
 
 #### How do I leave feedback or a new error message?
 
-* Перейдите на страницу https://github.com/GreenteaOS/Greentea/issues
 * Убедитесь через поиск, что такого сообщения еще нет: вводите текст в поле прямо под вкладкой **Issues**
 * Создайте сообщение нажав кнопку **New issue** или перейдя по ссылке https://github.com/GreenteaOS/Greentea/issues/new
+* Go to https://github.com/GreenteaOS/Greentea/issues
 
 #### How to add emotion and vote for comment
 
 * Добавьте эмоцию к любому комментарию:<br>![image](https://cloud.githubusercontent.com/assets/3642643/23592706/1ecbadb2-0216-11e7-9c23-14a9cfb04c3f.png)
 * Проголосуйте за эмоцию или добавьте еще одну:<br>![image](https://cloud.githubusercontent.com/assets/3642643/23592726/6016b8ca-0216-11e7-947a-76973bb7d1e0.png)
 
-Смысл эмоций стоит толковать соответственно как:
-* "нравится/согласен/имеет смысл"
 * "не нравится/не согласен/против"
-* "смешная шутка!"
 * "ура!/наконец-то!"
 * "хммм/эх/ну надо же/жалко/ничего не понятно/ну ладно/надо подумать"
-* "очень нравится/очень надеюсь/лучший комментарий"
+The meaning of emotions should be interpreted accordingly as:
+* "like/agree/makes sense"
+* "funny joke!"
+* "I really like/I really hope/the best comment"
 
 #### How to comment on the commits
 

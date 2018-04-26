@@ -6,9 +6,9 @@
 * Убедитесь, что скачиваете код в папку **не содержащую пробелов** в пути!
 * Перейдите [на страницу репозитория](https://github.com/GreenteaOS/Kernel)
 * Если Вы *не* пользуетесь Git то скачайте архив с кодом: <br/> ![image](https://cloud.githubusercontent.com/assets/3642643/19634448/d98f79fa-99c3-11e6-9d3e-009db22395e1.png)
-* Для пользователей Git: `git clone --depth 10 --recursive https://github.com/GreenteaOS/Kernel.git`
 * Для пользователей [Github for Desktop](https://desktop.github.com): <br/> ![image](https://cloud.githubusercontent.com/assets/3642643/19634404/61125858-99c3-11e6-9c36-60f5a814fcc1.png)
 * В этой же папке будут сгенерированы временные файлы в процессе сборки и образы дисков
+* For Git users: `git clone --depth 10 --recursive https://github.com/GreenteaOS/Kernel.git`
 
 #### Installing the Build Environment
 

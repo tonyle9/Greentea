@@ -5,9 +5,9 @@
 Сборка из под иных, чем Windows NT, операционных систем, производится с помощью проекта [Wine](https://www.winehq.org).
 Предполагается, что читатель знаком с утилитами **wine** и **winetricks**, настроил их и они готовы к работе.
 
-Процесс радикально ничем не отличается от
 [такого в Windows](Build-Native.md),
-за исключением нескольких нюансов.
+The process is radically no different from
+except for a few nuances.
 
 #### Downloading the source code repository
 
