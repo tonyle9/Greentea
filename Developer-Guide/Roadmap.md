@@ -3,40 +3,40 @@
 * CPU
  * [x] x86-32-only mode
  * [x] BIOS boot
- * [ ] x86-64-only mode (**dropping x86-32**)
+ * [ ] [x86-64-only mode (**dropping x86-32**)](x64.md)
  * [ ] Multicore HAL and scheduler (only for x64)
  * [ ] UEFI boot
  * [ ] USB boot fixes
 * GPU
  * [x] Software OpenGL
- * [ ] Software Vulkan
+ * [ ] [Software Vulkan](../User-Guide/Vulkan.md)
  * [ ] Hardware Vulkan
  * [ ] OpenGL over Vulkan
  * [ ] D3D over Vulkan
 * Kernel
  * [x] Basic stubs: memory manager, FAT filesystem, simple scheduler
- * [ ] Rewrite in [Hexa](https://github.com/hexalang)
+ * [ ] [Rewrite in Hexa](../User-Guide/Hexa.md)
  * [ ] Stable memory manager
  * [ ] GUI for OS installer instead of DOS terminal session
- * [ ] Moving from FAT to journaling filesystem (NTFS ok for external drives, but not for root, BTRFS is very linux specific)
+ * [ ] [Moving from FAT to journaling filesystem (NTFS ok for external drives, but not for root, BTRFS/EXT4 are very Linux specific)](../User-Guide/Greentea-FS.md)
  * [ ] Stable networking
  * [x] Initial NT 5.1 support (Windows XP)
  * [ ] Full NT 5.1 support (Windows XP)
  * [ ] Initial NT 6.1 support (jump directly to Windows 7, compatibility mode)
  * [ ] Full NT 6.1 support (Windows 7)
  * [ ] Linux subsystem (only software)
- * [ ] Android subsystem (based on linux's, only software)
- * [ ] Easy system updates
+ * [ ] Android subsystem (based on Linux's, only software)
+ * [ ] [Easy system updates](../User-Guide/Rolling.md)
 * Visuals
  * [x] New default theming and visuals (Windows XP compatible)
  * [ ] Fix theming engine (Windows XP compatible)
- * [ ] New HTML5-alike theming engine and toolkit
+ * [ ] [New HTML5-alike theming engine and toolkit](../User-Guide/Web.md)
  * [ ] Overhaul of theming engine (GPU-accelerated, shadows, blurs, effects)
 * Shell and UI
  * [x] Initial implementations of shell, tray, explorer, start button and others
  * [ ] Greentea widgets and gui elements
  * [ ] Stabilization of shell, tray, explorer, start button and others
- * [ ] Shell overhaul to add modern features and look
+ * [ ] [Shell overhaul to add modern features and look](../User-Guide/Control-Panel.md)
  * [ ] Customizable themes and widgets
  * [ ] Stable and finished user space software
 
