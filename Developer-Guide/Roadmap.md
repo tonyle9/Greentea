@@ -1,3 +1,7 @@
+## Roadmap and goals
+
+The main idea of the project is to quickly and efficiently create a compatible environment for the existing software and provide the best user experience of a personal computer.
+
 ### Planned features and improvements
 
 * CPU
