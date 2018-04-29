@@ -13,7 +13,7 @@ To leave a comment you need to have a GitHub account: https://github.com/join
 
 To mention the developer, use the `@` character, for example [@torvalds](https://github.com/torvalds)
 
-Для предпросмотра нажмите **Preview** (и **Write** чтобы вернуться из режима предпросмотра).
+To preview, click **Preview** (and then click **Write** to return from the preview mode).
 
 #### How do I leave feedback or a new error message?
 
@@ -26,12 +26,12 @@ To mention the developer, use the `@` character, for example [@torvalds](https:/
 * Добавьте эмоцию к любому комментарию:<br>![image](https://cloud.githubusercontent.com/assets/3642643/23592706/1ecbadb2-0216-11e7-9c23-14a9cfb04c3f.png)
 * Проголосуйте за эмоцию или добавьте еще одну:<br>![image](https://cloud.githubusercontent.com/assets/3642643/23592726/6016b8ca-0216-11e7-947a-76973bb7d1e0.png)
 
-* "не нравится/не согласен/против"
-* "ура!/наконец-то!"
 * "хммм/эх/ну надо же/жалко/ничего не понятно/ну ладно/надо подумать"
 The meaning of emotions should be interpreted accordingly as:
 * "like/agree/makes sense"
+* "dislike/disagree/against"
 * "funny joke!"
+* "hurray!/finally!"
 * "I really like/I really hope/the best comment"
 
 #### How to comment on the commits

@@ -5,18 +5,18 @@
 Сборка из под иных, чем Windows NT, операционных систем, производится с помощью проекта [Wine](https://www.winehq.org).
 Предполагается, что читатель знаком с утилитами **wine** и **winetricks**, настроил их и они готовы к работе.
 
-[такого в Windows](Build-Native.md),
 The process is radically no different from
+[such as in Windows](Build-Native.md),
 except for a few nuances.
 
 #### Downloading the source code repository
 
-Выполните процедуру идентично [оригинальной](Build-Native.md).
 Репозиторий можно поместить в домашнюю папку (в wine это путь `Z:\home\username\`).
+Perform the procedure identical to [the article](Build-Native.md).
 
 #### Installing the Build Environment
 
-Установите среду как в [исходной статье](Build-Native.md).
+Set the environment as in [the article](Build-Native.md).
 
 #### Build, test and rebuild
 

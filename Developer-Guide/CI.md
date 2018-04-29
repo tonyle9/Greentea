@@ -5,11 +5,11 @@
 Continuous Integration - методология регулярной пересборки и тестирования непосредственно в процессе разработки.
 Проверяется практически каждое внесённое изменение. Таким образом это делает возможным ранний отклик о качестве продукта.
 
-#### Когда происходит сборка?
+#### When does the build take place?
 
-* Когда разработчик вносит изменения в репозиторий GreenteaOS/Kernel
-* Когда контрибьютор присылает запрос на слияние (Pull Request)
-* Когда контрибьютор вносит правку в свой запрос на слияние
+* When a developer makes changes to the GreenteaOS/Kernel repository
+* When the contributor sends a request to merge changes (Pull Request)
+* When the contributor makes commits to his pull request
 
 #### Where can I see the build status?
 
@@ -19,8 +19,8 @@ Continuous Integration - методология регулярной перес�
 * Не путать со статусом возможности слияния (Merge)!
 * По ссылке https://ci.appveyor.com/project/PeyTy/kernel-vwmh6
 
-#### Где скачать сборку?
+#### Where to download a build?
 
-Перейдите на сайт системы CI, выберите интересующую сборку и кликните по вкладке Artifacts.
+Go to the website of the CI system, select the build of interest, and click on the Artifacts tab.
 
-Официальные ночные сборки GreenteaOS/Kernel происходят здесь https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts
+Official GreenteaOS/Kernel nightly builds take place here https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts
