@@ -1,9 +1,9 @@
-### Краткое руководство по сборке системы
+### Quick guide to build a system with WineHQ
 
 > Information is out of date
 
-Сборка из под иных, чем Windows NT, операционных систем, производится с помощью проекта [Wine](https://www.winehq.org).
-Предполагается, что читатель знаком с утилитами **wine** и **winetricks**, настроил их и они готовы к работе.
+Builds within operating systems other than Windows are performed using the [WineHQ](https://www.winehq.org) project.
+It is assumed that the reader is familiar with the utilities **WineHQ** and **winetricks**, set them up and they are ready to work.
 
 The process is radically no different from
 [such as in Windows](Build-Native.md),
@@ -11,8 +11,8 @@ except for a few nuances.
 
 #### Downloading the source code repository
 
-Репозиторий можно поместить в домашнюю папку (в wine это путь `Z:\home\username\`).
 Perform the procedure identical to [the article](Build-Native.md).
+The repository may be placed into the home folder (in WineHQ this is the path `Z:\home\username\`).
 
 #### Installing the Build Environment
 
@@ -20,12 +20,12 @@ Set the environment as in [the article](Build-Native.md).
 
 #### Build, test and rebuild
 
-Перед выполнением данной процедуры необходимо найти файл `configure.cmd` в папке с кодом, и отредактировать его через gedit:
+Before executing this procedure, you need to find the `configure.cmd` file in the sources folder, and edit it with gedit:
 
-* Закомментируйте строку, следующую за `REM Detect presence of cmake`, добавлением слова `REM` в начале строки:
-<br/>`REM cmd /c cmake --version 2> .....продолжение строки`
-* Найдите строку, следующую за `if "%BUILD_ENVIRONMENT%" == "MinGW"`
-* В конце строки параметр `"%REACTOS_SOURCE_DIR%"` необходимо заменить на путь к репозиторию (в формате wine), например:
+* Comment out the line following after `REM Detect presence of cmake`, adding the word` REM` at the beginning of the line:
+<br/>`REM cmd /c cmake --version 2> .....rest of the line`
+* Find the line following after `if "%BUILD_ENVIRONMENT%" == "MinGW"`
+* At the end of the line, the parameter `"%REACTOS_SOURCE_DIR%"` must be replaced with the path to the repository (in the WineHQ format), for example:
 <br/>`"Z:/home/username/Greentea/Kernel"`
 
-Теперь можно открыть через wine ярлык на рабочем столе и выполнить configure, и далее, полностью аналогично исходной статье.
+Now you can open a WineHQ shortcut on the desktop and execute `configure`, and then, completely the same as in the [article](Build-Native.md).
