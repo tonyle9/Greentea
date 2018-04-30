@@ -1,9 +1,9 @@
-### Ночные сборки и CI
+### Nightly builds and CI
 
 #### What is CI and nightly build?
 
-Continuous Integration - методология регулярной пересборки и тестирования непосредственно в процессе разработки.
-Проверяется практически каждое внесённое изменение. Таким образом это делает возможным ранний отклик о качестве продукта.
+Continuous Integration - methodology of regular rebuild and testing directly during the development process.
+Almost every change is built and tested. Thus, it makes it possible to have an early response about the quality of the product.
 
 #### When does the build take place?
 
@@ -13,11 +13,11 @@ Continuous Integration - методология регулярной перес�
 
 #### Where can I see the build status?
 
-* При запросе на слияние во вкладке Conversation внизу можно будет увидеть довольно яркую отметку Build
-жёлтого (в процессе), красного (сборка не удалась или содержит ошибки) и зелёного (сборка проведена) цвета.
-* Курсором мыши можно обнаружить ссылку на лог сборки
-* Не путать со статусом возможности слияния (Merge)!
-* По ссылке https://ci.appveyor.com/project/PeyTy/kernel-vwmh6
+* When you request a merge in the `Conversation` tab, below you can see a fairly bright status of `Build` in
+yellow (in progress), red (the build failed or contains errors) and green (build successful) colors.
+* You may find the link to the build log at top right corner
+* Not to be confused with the status of merge possibility!
+* Follow the link https://ci.appveyor.com/project/PeyTy/kernel-vwmh6
 
 #### Where to download a build?
 
