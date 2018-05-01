@@ -11,7 +11,7 @@ Warm and cozy, open-source operating system compatible with apps, games and driv
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 [![Greentea Twitter](https://img.shields.io/badge/Twitter-@GreenteaOS-blue.svg?style=flat)](https://twitter.com/GreenteaOS)
 [![Greentea GPlus](https://img.shields.io/badge/G+-Greentea%20OS-0f9d58.svg?style=flat)](https://plus.google.com/communities/112825384415357456297)
-[![Greentea Live](https://img.shields.io/badge/Telegram-LIVE-red.svg?style=flat)](https://t.me/greenteaos_live)
+[![Greentea News](https://img.shields.io/badge/Telegram-NEWS-red.svg?style=flat)](https://t.me/greenteaos)
 
 Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
