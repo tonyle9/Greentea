@@ -19,8 +19,8 @@
 #### Build, test and rebuild
 
 * Перед началом сборки убедитесь, что в наличии **не менее гигабайта** свободного места на диске!
-* Начальная сборка занимает примерно 40 (сорок) минут, в зависимости от конфигурации ПК
 * Запустите из корня репозитория Kernel скрипт `build-bootcd.cmd` (двойным кликом по файлу) или `build-livecd.cmd` для построения установочного или живого диска соответственно
-* Для пересборки достаточно снова повторить аналогичную процедуру, это может занимать от пяти секунд до нескольких минут,
 от числа затронутых зависимостей и конфигурации ПК
-* В папке `output-MinGW-i386` в случае успешной сборки появится `livecd.iso` или `bootcd.iso`
+* The initial build takes approximately 40 (forty) minutes, depending on the configuration of the PC
+* To rebuild it is enough to repeat the same procedure again, it can take from five seconds to several minutes,
+* In the folder `output-MinGW-i386` in the case of successful build appears `livecd.iso` or `bootcd.iso`
