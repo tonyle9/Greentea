@@ -13,6 +13,9 @@ Warm and cozy, open-source operating system compatible with apps, games and driv
 [![Greentea GPlus](https://img.shields.io/badge/G+-Greentea%20OS-0f9d58.svg?style=flat)](https://plus.google.com/communities/112825384415357456297)
 [![Greentea News](https://img.shields.io/badge/Telegram-NEWS-red.svg?style=flat)](https://t.me/greenteaos)
 
+[![Community Links](https://img.shields.io/badge/Community-Links-orange.svg?style=flat)](User-Guide/Community.md)
+[![Nightly Builds](https://img.shields.io/badge/Nightly-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
+
 Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
 ![Screenshot](Images/screenshot.png?raw=true)
@@ -63,7 +66,7 @@ Building, testing and enjoing development:
 
 ## Get Greentea
 
-<img width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Download_downloading_data_storage_folder-128.png" />
+[<img width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Download_downloading_data_storage_folder-128.png" />](https://greenteaos.github.io/#download)
 
 Latest version may be easily downloaded from our [home page](https://greenteaos.github.io/#download) either with [Torrent](https://www.bittorrent.com/bittorrent-free) or [Telegram](https://telegram.org) free service.
 
