@@ -1,10 +1,10 @@
 # Using Git and GitHub
 
-Git — система контроля исходного кода, репозиторий — хранилище исходного кода, GitHub — хостинг репозиториев.
+Git — source control system, repository — source code storage, GitHub — repository hosting.
 
-В первую очередь, рекомендуется скачать [*приложения*](../english/Developer-Guide/Must-Have.md#git-and-github-integration) умеющие **удобно** работать с Git.
+First of all, it is recommended to download [*applications*](../english/Developer-Guide/Must-Have.md#git-and-github-integration) able to **conveniently** work with Git.
 
-Затем, освойте опыт работы с коммитингом отдельных строк кода вместо целых файлов и [принцип небольших коммитов](https://ahitrin.github.io/work/2012/07/15/Микрокоммиты-в-git/).
+They learn how to commit individual lines of code instead of entire files and [the principle of small commits](https://ahitrin.github.io/work/2012/07/15/Микрокоммиты-в-git/).
 
 ![image](https://cloud.githubusercontent.com/assets/359239/5745722/ab3d336e-9bdf-11e4-8001-fc7316e8155b.gif)
 
@@ -12,48 +12,48 @@ Git — система контроля исходного кода, репоз�
 
 ![image](https://user-images.githubusercontent.com/3642643/38783049-9cb36556-4105-11e8-9f31-fabde2f65e81.png)
 
-- Поменяйте формат окончания строк на другой (для новых файлов предпочитайте CRLF, но если файл уже в LF - не меняйте его формат)
-- Возможно, в концах строк пробелы (ищите функцию trim whitespace в редакторе)
-- Табы в началах строк поменялись на пробелы (или наоборот)
-- Поменялись права доступа файла, или его другие свойства
+- Change the end-of-line format to another (for new files, prefer CRLF, but if the file is already in LF — do not change its format)
+- It is possible that there are spaces at the end of the lines (look for the trim whitespace function in the editor)
+- Tabs in the beginning of the lines changed to spaces (or vice versa)
+- The permissions of the file have changed, or its other properties
 - The file was moved
 
 ## Git Special Files
 
 ![image](https://user-images.githubusercontent.com/3642643/38783115-9673f222-4106-11e8-9dc3-a964be1919b9.png)
 
-- `.gitattributes` — указывает характеристики форматов и окончаний строк (новичкам лучше не трогать, но обычно `* text=auto`)
-- `README.md` — первый файл, который отобразится в веб интерфейсе GitHub при переходе в папку
-- `.gitignore` - indicates files or extensions for ignoring
-- `.gitkeep` - empty file, allows you to commit an empty folder
+- `.gitignore` — indicates files or extensions for ignoring
+- `.gitattributes` — specifies the characteristics of file formats and endings of lines (usually just `* text=auto`)
+- `.gitkeep` — empty file, allows you to commit an empty folder
+- `README.md` — the file to be displayed in the web interface of GitHub when you go to the folder
 
-## Как оформить и прислать патч в проект?
+## How to issue and send a patch to the project?
 
-В системе GitHub используется механизм запросов на слияние (pull request) — сначала создаётся форк — копия репозитория — в него делаются коммиты, и затем отправляется запрос на слияние в оригинальный репозиторий.
+The GitHub system uses the pull request mechanism — first a fork is created — a copy of the repository — commits are made to it, and then the merge request is sent to the original repository.
 
-- Нажмите кнопку `Fork` вверху экрана или выберете конкретый файл и нажмите иконку карандаша (это тоже создаст форк)
-- Кнопка `Clone or download` в **форке** позволит скачать репозиторий для внесения изменений
-- Кнопка `New pull request` позволит создать запрос на слияние — выберите нужную ветку и целевой репозиторий
-- Хорошее описание запроса — залог взаимопонимания. Не ломайте код, не используйте чужие наработки без права на это и соблюдайте стиль. В запрос можно будет и далее производить новые коммиты (не нужно пересоздавать запрос или форк для этого).
-- Администратор репозитория проведёт обсуждение и выполнит (или нет) слияние
-- После слияния форк можно удалить
+- Click the `Fork` button at the top of the screen or select a specific file and click the pencil icon (this will also create a fork)
+- The `Clone or download` button in **fork** will download the repository for making changes
+- The `New pull request` button will create a merge/pull request — select the desired branch and target repository
+- A good description of the request — the key to mutual understanding. Do not break the code, do not use someone else's work without the right to do so and follow the style. New commits can still be made to the repository (no need to recreate the pull request or fork for this).
+- The repository administrator will hold a discussion and merge (or not)
+- After the merge, you can remove the fork
 
-Чтобы обновить код **форка** до актуальной версии **целевого** репозитория — на данный момент, наиболее простым решением будет удалить форк и создать его заново. Удаление производится в настройках форка в его `Settings` -> `Delete this repository` -> Ввод названия репозитория.
+To update the **fork** code to the current version **of the target** repository — at this time, the easiest solution is to remove the fork and recreate it. The removal is done in the fork settings in its `Settings` -> `Delete this repository` -> Entering the name of the repository.
 
 ## Receiving and sending changes
 
-Git позволяет хранить коммиты локально на компьютере (само действие commit не вызывает отправки на сервер), и отправлять в любое удобное время.
+Git allows you to store commits locally on the computer (the commit itself does not cause sending to the server), and send at any convenient time.
 
-- `git pull` или созвучная fetch операция в редакторе — получение изменений с сервера
-- `git push` или созвучная sync операция в редакторе — отправка изменений на сервер
+- `git pull` or consonant fetch operation in the editor — getting changes from the server
+- `git push` or consonant sync operation in the editor — sending changes to the server
 
 What if the sending fails?
 
-- Убедитесь, что присутствуют права на запись в репозиторий или что это не чужой репозиторий
-- Возможно, есть конфликты изменений, это необходимо обсуждать с администратором репозитория
 - Check [server availability](https://status.github.com/messages)
+- Make sure that you have write access to the repository or that it is not a someone else's repository
+- There may be conflicting changes, discuss them with the administrator of the repository
 
-Можно также вносить изменения в код или wiki-страницы [редактированием через веб-интерфейс GitHub](../User-Guide/Wiki-How.md), выбрав файл и нажав иконку карандаша.
+You can also make changes to the code or wiki pages [editing via the GitHub web interface](../User-Guide/Wiki-How.md) by selecting the file and clicking the pencil icon.
 
 See also:
 
