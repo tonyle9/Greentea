@@ -11,7 +11,6 @@ Warm and cozy, open-source operating system compatible with apps, games and driv
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 [![Greentea Twitter](https://img.shields.io/badge/Twitter-@GreenteaOS-blue.svg?style=flat)](https://twitter.com/GreenteaOS)
 [![Greentea GPlus](https://img.shields.io/badge/G+-Greentea%20OS-0f9d58.svg?style=flat)](https://plus.google.com/communities/112825384415357456297)
-[![Greentea News](https://img.shields.io/badge/Telegram-NEWS-red.svg?style=flat)](https://t.me/greenteaos)
 
 [![Community Links](https://img.shields.io/badge/Community-Links-orange.svg?style=flat)](User-Guide/Community.md)
 [![Nightly Builds](https://img.shields.io/badge/Nightly-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
