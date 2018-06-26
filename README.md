@@ -6,7 +6,8 @@ Warm and cozy, open-source operating system compatible with apps, games and driv
 <br/><br/>
 
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GreenteaOS/Kernel)
-[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20EN-blue.svg)](https://telegram.me/greenteaos_en)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20NEWS-blue.svg)](https://telegram.me/greenteaos_news)
+[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20ENG-blue.svg)](https://telegram.me/greenteaos)
 [![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg)](https://gitter.im/GreenteaOS/Lobby)
 [![GPL License](https://img.shields.io/badge/License-GNU%20GPLv2-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 [![Greentea Twitter](https://img.shields.io/badge/Twitter-@GreenteaOS-blue.svg?style=flat)](https://twitter.com/GreenteaOS)
